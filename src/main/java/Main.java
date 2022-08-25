@@ -13,7 +13,7 @@ public class Main {
     }
     
     @RequestMapping("/prueba")
-    String home() {
+    String home2() {
         return "Hello World - v4!";
     }
 
